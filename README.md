@@ -4,7 +4,7 @@ I'm a final-year Computer Science Engineering student (Minor: Data Science, Hono
 based in Kolhapur, India, working toward becoming a Full Stack Developer.
 
 - 🔭 Currently building **CivicPulse**, an AI-powered civic issue reporting platform
-- 🛠️ Comfortable across the stack: React, Node.js, MongoDB, REST APIs, Python, Go, Java, C++
+- 🛠️ Comfortable across the stack: React, Node.js, MongoDB, REST APIs, Python, Java
 - ☁️ Hands-on with Linux, Kubernetes, Docker
 - 🌱 Actively sharpening DSA + OOP fundamentals
 - 🏆 Top 30 at Vishwanova 2026, Top 10 at Aavishkar '26 Ideathon, and more
